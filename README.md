@@ -1,4 +1,4 @@
-## Homework
+## About
 Test automation project. Based on Selenium + JUnit + Allure
 
 ### Installation
